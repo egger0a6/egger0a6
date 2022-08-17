@@ -18,5 +18,5 @@
 
 ## About Me :
 I am a Software Engineer.
-- Add me on CodeWars! [![Linkedin Badge](https://img.shields.io/badge/egger0a6-B1361E?style=flat&logo=codewars&logoColor=white)](your-linkedin-url)
+- Add me on CodeWars! [![Linkedin Badge](https://img.shields.io/badge/egger0a6-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/egger0a6)
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=egger0a6)](https://github.com/anuraghazra/github-readme-stats) -->
