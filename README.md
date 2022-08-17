@@ -16,7 +16,19 @@
 
 ---
 
-## About Me :
-I am a Software Engineer.
-- Add me on CodeWars! [![Linkedin Badge](https://img.shields.io/badge/egger0a6-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/egger0a6)
+<div id="header" align="center">
+  <h2>About Me :</h2>
+  <h3>I am a Software Engineer.</h3>
+  <div id="about-me-items">
+    - Add me on CodeWars!
+    <a href="https://www.codewars.com/users/egger0a6">
+      <img src="https://img.shields.io/badge/egger0a6-B1361E?style=flat&logo=codewars&logoColor=white">
+    </a>
+  </div>
+</div
+
+---
+
+
+
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=egger0a6)](https://github.com/anuraghazra/github-readme-stats) -->
